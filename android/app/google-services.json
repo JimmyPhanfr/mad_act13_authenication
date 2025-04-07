@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673839146569",
+    "project_id": "mad-act13-authenication",
+    "storage_bucket": "mad-act13-authenication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673839146569:android:b124840989201dca8ec198",
+        "android_client_info": {
+          "package_name": "com.example.mad_act13_authenication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-MpidEccS0Dt1qpav7ieRjedjLIz2g0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
